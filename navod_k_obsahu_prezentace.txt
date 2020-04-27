@@ -1,6 +1,20 @@
 Návod na vytvoøení prezentace
 
 ---
+Témata prezentací:
+-- Angiologie
+-- Gastroenterologie
+-- Chirurgie
+-- Intenzivní medicína
+-- Kardiologie
+-- Nefrologie
+-- Neurologie
+-- Oftalmologie
+-- Onkologie
+-- Ortopedie
+-- Ošetøovatelství
+
+---
 Úvod: popis podtématu, vèetnì informativních obrázkù. Celkový rozsah: 5--10 slidù.
 
 ---
