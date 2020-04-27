@@ -1,1 +1,3 @@
-# 17KBIAZI_Aplikovana_zdravotnicka_informatika
+# 17KBIAZI Aplikovaná zdravotnická informatika
+
+Repozitář pro účely předmětu [17KBIAZI Aplikovaná zdravotnická informatika](https://predmety.fbmi.cvut.cz/cs/17kbiazi) (FBMI ČVUT).
