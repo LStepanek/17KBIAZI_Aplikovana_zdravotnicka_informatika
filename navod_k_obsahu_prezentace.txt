@@ -1,0 +1,23 @@
+Návod na vytvoøení prezentace
+
+---
+Úvod: popis podtématu, vèetnì informativních obrázkù. Celkový rozsah: 5--10 slidù.
+
+---
+Webometrie: Tabulka nejvýznamnìjších stránek pro dané téma a jejich hodnocení, poèet
+cca 10--20 webových stránek na 1--3 slidech.
+
+1. sloupec: výøez loga
+2. sloupec: webový odkaz + heslovitý pøehled obsahu (max. 3 øádky)
+3. sloupec: charakter stránek (údaje oddìlené lomítkem)
+                  -  pro pacienty = 0, pro zdravotníky = 0
+                  -  ziskové organizace = 0, neziskové organizace=1
+4. sloupec: interaktivní souèásti (údaje oddìlené lomítkem)
+                   -  poradny (poèet)
+                   -  fóra (poèet)
+5. sloupec: webometrie (údaje oddìlené lomítkem)
+                   - citovanost (www.checkyourlinkpopularity.com, poèet odkazù)
+                   - navštìvovanost (napø. www.similarweb.com)
+6. sloupec: evaluace (údaje oddìlené lomítkem)
+                   - informaèní obsah (rozsah a kvalita), 1 - 5 bodù
+                   - uživatelský komfort, 1 - 5 bodù"
