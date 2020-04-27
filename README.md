@@ -1,0 +1,1 @@
+# 17KBIAZI_Aplikovana_zdravotnicka_informatika
